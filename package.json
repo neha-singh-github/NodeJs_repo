@@ -1,0 +1,19 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Learning node js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neha-singh-github/NodeJs_repo.git"
+  },
+  "author": "Neha Panwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neha-singh-github/NodeJs_repo/issues"
+  },
+  "homepage": "https://github.com/neha-singh-github/NodeJs_repo#readme"
+}
