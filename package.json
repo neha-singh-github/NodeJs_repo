@@ -4,7 +4,7 @@
   "description": "Learning node js.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/neha-singh-github/NodeJs_repo/issues"
   },
-  "homepage": "https://github.com/neha-singh-github/NodeJs_repo#readme"
+  "homepage": "https://github.com/neha-singh-github/NodeJs_repo#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
 }
